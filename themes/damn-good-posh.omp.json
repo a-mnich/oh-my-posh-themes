@@ -11,12 +11,7 @@
 		"orange": "#FFA700",
 		"red": "#FF0000"
   },
-  "transient_prompt": {
-    "vertical_offset": -1,
-    "background": "transparent",
-    "foreground": "#ffffff",
-    "template": "{{ .Shell }}> "
-  },
+  "transient_prompt": {},
   "blocks": [
     {
       "alignment": "left",
