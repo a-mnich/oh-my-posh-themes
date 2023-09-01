@@ -11,8 +11,6 @@
 		"orange": "#FFA700",
 		"red": "#FF0000"
   },
-  "if": {"eq": 0},
-  "then": { "transient_prompt": {} },
   "blocks": [
     {
       "alignment": "left",
