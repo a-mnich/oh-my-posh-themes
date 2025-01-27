@@ -11,7 +11,7 @@ Install font with: `oh-my-posh font install`
  - `notepad $PROFILE`
  - set content of PROFILE to
 ```
-oh-my-posh init pwsh --config 'https://raw.githubusercontent.com/a-mnich/oh-my-posh-themes/main/themes/damn-good-posh.omp.json' | Invoke-Expression
+oh-my-posh init pwsh --config 'https://a-mnich.github.io/oh-my-posh-themes/themes/damn-good-posh.omp.json' | Invoke-Expression
 ```
  - set the default terminal font face value for profiles
   ```json
